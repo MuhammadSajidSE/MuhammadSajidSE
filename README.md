@@ -87,6 +87,6 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=muhammadsajidse&" alt="muhammadsajidse" /></p>
 
 ### 🐍 Snake Game
-![snake gif](https://github.com/muhammadsajidse/muhammadsajidse/blob/output/github-contribution-grid-snake.svg)
+![snake gif]([https://github.com/MuhammadSajidSE/MuhammadSajidSE/blob/main/github/workflows/MAIN.yml])
 
 
